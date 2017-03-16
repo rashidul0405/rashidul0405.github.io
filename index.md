@@ -3,4 +3,4 @@ Senior Software Engineer
 BSc in CSE   
 
 Current Interests:    
-#Golang, #Rust, #PHP, #JS, #Algorithms, #DataStructures
+#Go, #React, #PHP, #JS, #Algorithms, #DataStructures
