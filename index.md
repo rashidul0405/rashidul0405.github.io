@@ -1,6 +1,5 @@
 Md Rashidul Islam    
-Senior Software Engineer    
-BSc in CSE   
+Software Engineer    
 
 Current Interests:    
 #Go, #React, #PHP, #JS, #Algorithms, #DataStructures
